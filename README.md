@@ -1,8 +1,13 @@
-# The Pangea_AI Collective
+# Pangea_IA Collective
 
-The **Pangea_AI Collective** (also spelled *Pangea_IA Collective* in some contexts) is an **artistic and research-based initiative** led by **Marlon Barrios Solano** and **María Luisa Angulo** (an artist from El Salvador based in Paris).
+**Pangea_IA** is a **research-creation collective** founded by **María Luisa Angulo** (France/El Salvador) and **Marlon Barrios Solano** (U.S./Venezuela).
 
-It uses the metaphor of **Pangea**, the ancient supercontinent, to imagine and speculate about a **world in constant movement**, **free of essentialisms and borders**. This metaphor becomes an **epistemic and artistic tool**, guiding inquiries into **artificial intelligence**, **decoloniality**, **migration**, and **speculative storytelling**.
+Rooted in our experiences as **migrant beings**, our work explores **artistic practices of knowledge-making**, intertwining **art, technology, and critical theory** as interdependent territories, with particular attention to the **body, movement, and the performing arts**.
+
+In our horizon, **contemporary technologies—particularly AI—are far from being neutral tools**. Instead, they constitute a **latent space**: a territory of multiple possibilities where the **meaning of the future** is continuously contested. Our proposal seeks to reconfigure this space through a **situated, critical, and poetic sensibility**.
+
+As a collective, we conceive **artistic creation as an act of epistemic resistance** against dominant narratives that promote **homogeneity, historical linearity,** and the **technocratic ideal of progress**. In opposition to these logics, we commit to a **horizontal, situated, and multilingual practice** that destabilizes hierarchical structures and patriarchal inertia—forces that often infiltrate collaborative processes almost imperceptibly, conditioning **forms of visibility, agency, and legitimacy**.
+
 
 ---
 
