@@ -39,6 +39,6 @@ The collective operates through **residencies, performances, installations, work
 - **Residency at Lake Studios Berlin** (Nov 2024)  
 - **Presentation at ICA Cape Town** (Sept 2024)  
 - **Upcoming residency at Theater im Depot, Dortmund** (Aug–Oct 2025), culminating in a symposium  
-- **Open-access publication:** *Pangea in Latent Space: Writings for Pangea in Latent Space (Decolonizing the Digital / Beyond Gravity)*
+
 
   
