@@ -1,12 +1,12 @@
-# Pangea_IA Collective
+# Pangea_IA Collective (August 2024-October 5th 2025)
 
-**Pangea_IA** is a **research-creation collective** founded by **María Luisa Angulo** (France/El Salvador) and **Marlon Barrios Solano** (U.S./Venezuela).
+**Pangea_IA** was a **research-creation collective** founded by **María Luisa Angulo** (France/El Salvador) and **(Marlon Barrios Solano)**[ https://marlonbarrios.github.io/](U.S./Venezuela).
 
 Rooted in our experiences as **migrant beings**, our work explores **artistic practices of knowledge-making**, intertwining **art, technology, and critical theory** as interdependent territories, with particular attention to the **body, movement, and the performing arts**.
 
 In our horizon, **contemporary technologies—particularly AI—are far from being neutral tools**. Instead, they constitute a **latent space**: a territory of multiple possibilities where the **meaning of the future** is continuously contested. Our proposal seeks to reconfigure this space through a **situated, critical, and poetic sensibility**.
 
-As a collective, we conceive **artistic creation as an act of epistemic resistance** against dominant narratives that promote **homogeneity, historical linearity,** and the **technocratic ideal of progress**. In opposition to these logics, we commit to a **horizontal, situated, and multilingual practice** that destabilizes hierarchical structures and patriarchal inertia—forces that often infiltrate collaborative processes almost imperceptibly, conditioning **forms of visibility, agency, and legitimacy**.
+As a collective, we conceived **artistic creation as an act of epistemic resistance** against dominant narratives that promote **homogeneity, historical linearity,** and the **technocratic ideal of progress**. In opposition to these logics, we commit to a **horizontal, situated, and multilingual practice** that destabilizes hierarchical structures and patriarchal inertia—forces that often infiltrate collaborative processes almost imperceptibly, conditioning **forms of visibility, agency, and legitimacy**.
 
 
 ---
@@ -39,11 +39,16 @@ The collective operates through **residencies, performances, installations, work
 
 ---
 
-## 🧩 Recent and Upcoming Projects
+## 🧩 Activities
 
 - **Residency at Lake Studios Berlin** (Nov 2024)  
 - **Presentation at ICA Cape Town** (Sept 2024)  
-- **Upcoming residency at Theater im Depot, Dortmund** (Aug–Oct 2025), culminating in a symposium  
+- **Upcoming residency at Theater im Depot, Dortmund** (Aug–Oct 2025), culminating in a symposium.
+- 
+
+  Pangea_IA ended this paticular configuration in October 2025.
+
+
 
 
   
