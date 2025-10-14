@@ -1,6 +1,6 @@
 # Pangea_IA Collective (August 2024-October 5th 2025)
 
-**Pangea_IA** was a **research-creation collective** founded by **María Luisa Angulo** (France/El Salvador) and **(Marlon Barrios Solano)**[ https://marlonbarrios.github.io/](U.S./Venezuela).
+**Pangea_IA** was a **research-creation collective** founded by **María Luisa Angulo** (France/El Salvador) and (Marlon Barrios Solano)[ https://marlonbarrios.github.io/](U.S./Venezuela).
 
 Rooted in our experiences as **migrant beings**, our work explores **artistic practices of knowledge-making**, intertwining **art, technology, and critical theory** as interdependent territories, with particular attention to the **body, movement, and the performing arts**.
 
